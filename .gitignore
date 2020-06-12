@@ -5,3 +5,5 @@ data
 data_cancer
 processed_data
 data.csv
+config.py
+TCGA_cancer_downloads
