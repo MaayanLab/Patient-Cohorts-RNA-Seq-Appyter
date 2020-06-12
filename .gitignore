@@ -1,9 +1,1 @@
-venv
-.ipynb_checkpoints
-TCGA_downloads
-data
-data_cancer
-processed_data
-data.csv
 config.py
-TCGA_cancer_downloads
